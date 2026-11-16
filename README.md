@@ -20,4 +20,4 @@ Aplikacja komunikuje się z Allegro REST API jako skrypt serwerowy, wykorzystuj�
 Dostęp do aplikacji oraz kluczy API (`Client ID`, `Client Secret`, tokeny OAuth) posiada wyłącznie właściciel konta. Poświadczenia przechowywane są w zabezpieczonych zmiennych środowiskowych na prywatnym serwerze i nie są udostępniane podmiotom trzecim.
 
 ## 6. Dane kontaktowe
-W sprawach związanych z działaniem integracji prosimy o kontakt: **twoj.email@domena.pl**
+W sprawach związanych z działaniem integracji prosimy o kontakt: **luszczkacper42@gmail.com**
